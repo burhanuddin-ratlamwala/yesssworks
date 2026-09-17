@@ -1,0 +1,626 @@
+[
+  {
+    "slug": "5-ways-coworking-spaces-improve-employee-well-being",
+    "title": "5 Ways Coworking Spaces Improve Employee Well Being",
+    "category": "Workspace",
+    "hero": "space-open-desks",
+    "date": "2024-01-08",
+    "readMin": 7
+  },
+  {
+    "slug": "7-things-you-should-think-about-when-looking-for-an-office-space",
+    "title": "7 Things You Should Think About When Looking for an Office Space",
+    "category": "Workspace",
+    "hero": "space-lounge",
+    "date": "2024-01-15",
+    "readMin": 4
+  },
+  {
+    "slug": "best-budget-friendly-coworking-spaces-by-yesssworks-in-mumbai",
+    "title": "Best Budget Friendly Coworking Spaces by YesssWorks in Mumbai",
+    "category": "Workspace",
+    "hero": "space-private-cabin",
+    "date": "2024-01-22",
+    "readMin": 4
+  },
+  {
+    "slug": "building-a-supportive-community-in-a-coworking-space",
+    "title": "Building a Supportive Community in a Coworking Space",
+    "category": "Community",
+    "hero": "space-meeting-room",
+    "date": "2024-01-29",
+    "readMin": 4
+  },
+  {
+    "slug": "coworking-space-amenities-that-actually-matter",
+    "title": "Coworking Space Amenities That Actually Matter",
+    "category": "Workspace",
+    "hero": "space-fixed-desk",
+    "date": "2024-02-05",
+    "readMin": 5
+  },
+  {
+    "slug": "coworking-spaces-for-early-stage-vs-growth-stage-startups",
+    "title": "Coworking Spaces for Early Stage vs Growth Stage Startups",
+    "category": "Startups",
+    "hero": "space-pantry",
+    "date": "2024-02-12",
+    "readMin": 5
+  },
+  {
+    "slug": "coworking-spaces-for-first-time-entrepreneurs-a-complete-guide",
+    "title": "Coworking Spaces for First Time Entrepreneurs a Complete Guide",
+    "category": "Startups",
+    "hero": "space-reception",
+    "date": "2024-02-19",
+    "readMin": 8
+  },
+  {
+    "slug": "coworking-spaces-for-sales-teams-and-business-development",
+    "title": "Coworking Spaces for Sales Teams and Business Development",
+    "category": "Workspace",
+    "hero": "space-event",
+    "date": "2024-02-26",
+    "readMin": 5
+  },
+  {
+    "slug": "coworking-vs-coffee-shops-where-do-you-really-work-better",
+    "title": "Coworking vs Coffee Shops Where Do You Really Work Better",
+    "category": "Workspace",
+    "hero": "space-terrace",
+    "date": "2024-03-04",
+    "readMin": 6
+  },
+  {
+    "slug": "coworking-vs-home-office-which-is-the-better-choice",
+    "title": "Coworking vs Home Office Which is the Better Choice",
+    "category": "Workspace",
+    "hero": "space-phone-booth",
+    "date": "2024-03-11",
+    "readMin": 7
+  },
+  {
+    "slug": "essential-networking-tips-for-entrepreneurs-in-coworking-spaces",
+    "title": "Essential Networking Tips for Entrepreneurs in Coworking Spaces",
+    "category": "Community",
+    "hero": "space-office-suite",
+    "date": "2024-03-18",
+    "readMin": 7
+  },
+  {
+    "slug": "flexible-office-spaces-vs-traditional-leases-which-one-wins",
+    "title": "Flexible Office Spaces vs Traditional Leases Which One Wins",
+    "category": "Workspace",
+    "hero": "space-virtual-office",
+    "date": "2024-03-25",
+    "readMin": 6
+  },
+  {
+    "slug": "from-idea-to-execution-how-a-coworking-space-can-help-your-startup",
+    "title": "From Idea to Execution How a Coworking Space Can Help Your Startup",
+    "category": "Startups",
+    "hero": "space-open-desks",
+    "date": "2024-04-01",
+    "readMin": 4
+  },
+  {
+    "slug": "funding-your-startup-a-beginners-guide-to-investment-options",
+    "title": "Funding Your Startup a Beginners Guide to Investment Options",
+    "category": "Startups",
+    "hero": "space-lounge",
+    "date": "2024-04-08",
+    "readMin": 6
+  },
+  {
+    "slug": "hidden-costs-of-traditional-offices-vs-coworking-spaces",
+    "title": "Hidden Costs of Traditional Offices vs Coworking Spaces",
+    "category": "Workspace",
+    "hero": "space-private-cabin",
+    "date": "2024-04-15",
+    "readMin": 5
+  },
+  {
+    "slug": "how-a-vibrant-coworking-community-can-transform-your-business",
+    "title": "How a Vibrant Coworking Community Can Transform Your Business",
+    "category": "Community",
+    "hero": "space-meeting-room",
+    "date": "2024-04-22",
+    "readMin": 7
+  },
+  {
+    "slug": "how-changing-your-workspace-can-improve-business-results",
+    "title": "How Changing Your Workspace Can Improve Business Results",
+    "category": "Workspace",
+    "hero": "space-fixed-desk",
+    "date": "2024-04-29",
+    "readMin": 4
+  },
+  {
+    "slug": "how-coworking-can-benefit-the-future-workforce",
+    "title": "How Coworking Can Benefit the Future Workforce",
+    "category": "Workspace",
+    "hero": "space-pantry",
+    "date": "2024-05-06",
+    "readMin": 6
+  },
+  {
+    "slug": "how-coworking-helps-service-based-businesses-scale",
+    "title": "How Coworking Helps Service Based Businesses Scale",
+    "category": "Startups",
+    "hero": "space-reception",
+    "date": "2024-05-13",
+    "readMin": 7
+  },
+  {
+    "slug": "how-coworking-is-revolutionizing-the-real-estate-market",
+    "title": "How Coworking is Revolutionizing the Real Estate Market",
+    "category": "Workspace",
+    "hero": "space-event",
+    "date": "2024-05-20",
+    "readMin": 5
+  },
+  {
+    "slug": "how-coworking-spaces-can-help-build-a-remote-work-culture",
+    "title": "How Coworking Spaces Can Help Build a Remote Work Culture",
+    "category": "Workspace",
+    "hero": "space-terrace",
+    "date": "2024-05-27",
+    "readMin": 6
+  },
+  {
+    "slug": "how-coworking-spaces-foster-business-creativity-and-innovation",
+    "title": "How Coworking Spaces Foster Business Creativity and Innovation",
+    "category": "Workspace",
+    "hero": "space-phone-booth",
+    "date": "2024-06-03",
+    "readMin": 6
+  },
+  {
+    "slug": "how-coworking-spaces-foster-diversity-and-inclusion-in-workplaces",
+    "title": "How Coworking Spaces Foster Diversity and Inclusion in Workplaces",
+    "category": "Community",
+    "hero": "space-office-suite",
+    "date": "2024-06-10",
+    "readMin": 7
+  },
+  {
+    "slug": "how-coworking-spaces-helps-reduce-burnout",
+    "title": "How Coworking Spaces Helps Reduce Burnout",
+    "category": "Workspace",
+    "hero": "space-virtual-office",
+    "date": "2024-06-17",
+    "readMin": 6
+  },
+  {
+    "slug": "how-coworking-spaces-help-startups-scale-faster",
+    "title": "How Coworking Spaces Help Startups Scale Faster",
+    "category": "Startups",
+    "hero": "space-open-desks",
+    "date": "2024-06-24",
+    "readMin": 4
+  },
+  {
+    "slug": "how-coworking-spaces-improve-work-life-balance-for-entrepreneurs",
+    "title": "How Coworking Spaces Improve Work Life Balance for Entrepreneurs",
+    "category": "Startups",
+    "hero": "space-lounge",
+    "date": "2024-07-01",
+    "readMin": 4
+  },
+  {
+    "slug": "how-coworking-spaces-support-startup-growth-and-innovation",
+    "title": "How Coworking Spaces Support Startup Growth and Innovation",
+    "category": "Startups",
+    "hero": "space-private-cabin",
+    "date": "2024-07-08",
+    "readMin": 6
+  },
+  {
+    "slug": "how-digital-nomads-are-using-coworking-spaces-in-india",
+    "title": "How Digital Nomads are Using Coworking Spaces in India",
+    "category": "Workspace",
+    "hero": "space-meeting-room",
+    "date": "2024-07-15",
+    "readMin": 8
+  },
+  {
+    "slug": "how-environment-impacts-focus-and-decision-making-at-work",
+    "title": "How Environment Impacts Focus and Decision Making at Work",
+    "category": "Productivity",
+    "hero": "space-fixed-desk",
+    "date": "2024-07-22",
+    "readMin": 5
+  },
+  {
+    "slug": "how-remote-teams-benefit-from-coworking-spaces",
+    "title": "How Remote Teams Benefit from Coworking Spaces",
+    "category": "Workspace",
+    "hero": "space-pantry",
+    "date": "2024-07-29",
+    "readMin": 7
+  },
+  {
+    "slug": "how-to-build-a-strong-coworking-space-community",
+    "title": "How to Build a Strong Coworking Space Community",
+    "category": "Community",
+    "hero": "space-reception",
+    "date": "2024-08-05",
+    "readMin": 7
+  },
+  {
+    "slug": "how-to-choose-the-best-coworking-space-for-your-needs",
+    "title": "How to Choose the Best Coworking Space for Your Needs",
+    "category": "Workspace",
+    "hero": "space-event",
+    "date": "2024-08-12",
+    "readMin": 5
+  },
+  {
+    "slug": "how-to-choose-the-right-coworking-space-for-your-business-size",
+    "title": "How to Choose the Right Coworking Space for Your Business Size",
+    "category": "Workspace",
+    "hero": "space-terrace",
+    "date": "2024-08-19",
+    "readMin": 5
+  },
+  {
+    "slug": "how-to-manage-cash-flow-and-finances-in-the-early-stages-of-your-startup",
+    "title": "How to Manage Cash Flow and Finances in the Early Stages of Your Startup",
+    "category": "Startups",
+    "hero": "space-phone-booth",
+    "date": "2024-08-26",
+    "readMin": 6
+  },
+  {
+    "slug": "is-coworking-worth-it-for-solo-entrepreneurs",
+    "title": "Is Coworking Worth It for Solo Entrepreneurs",
+    "category": "Startups",
+    "hero": "space-office-suite",
+    "date": "2024-09-02",
+    "readMin": 7
+  },
+  {
+    "slug": "make-an-effective-hybrid-approach-to-work",
+    "title": "Make an Effective Hybrid Approach to Work",
+    "category": "Workspace",
+    "hero": "space-virtual-office",
+    "date": "2024-09-09",
+    "readMin": 6
+  },
+  {
+    "slug": "private-cabins-vs-open-desks-which-is-better-for-you",
+    "title": "Private Cabins vs Open Desks Which is Better for You",
+    "category": "Workspace",
+    "hero": "space-open-desks",
+    "date": "2024-09-16",
+    "readMin": 6
+  },
+  {
+    "slug": "the-best-business-resources-available-in-a-coworking-space",
+    "title": "The Best Business Resources Available in a Coworking Space",
+    "category": "Workspace",
+    "hero": "space-lounge",
+    "date": "2024-09-23",
+    "readMin": 5
+  },
+  {
+    "slug": "the-cost-comparison-renting-an-office-and-joining-a-coworking-space-in-mumbai",
+    "title": "The Cost Comparison Renting an Office and Joining a Coworking Space in Mumbai",
+    "category": "Workspace",
+    "hero": "space-private-cabin",
+    "date": "2024-09-30",
+    "readMin": 4
+  },
+  {
+    "slug": "the-future-of-co-working-trends-and-predictions",
+    "title": "The Future of Co Working Trends and Predictions",
+    "category": "Future of Work",
+    "hero": "space-meeting-room",
+    "date": "2024-10-07",
+    "readMin": 4
+  },
+  {
+    "slug": "the-future-of-coworking-trends-to-watch-in-2025",
+    "title": "The Future of Coworking Trends to Watch in 2025",
+    "category": "Workspace",
+    "hero": "space-fixed-desk",
+    "date": "2024-10-14",
+    "readMin": 4
+  },
+  {
+    "slug": "the-future-of-work-how-coworking-is-changing-the-business-landscape",
+    "title": "The Future of Work How Coworking is Changing the Business Landscape",
+    "category": "Workspace",
+    "hero": "space-pantry",
+    "date": "2024-10-21",
+    "readMin": 8
+  },
+  {
+    "slug": "the-impact-of-collaborative-work-environments-on-business-growth",
+    "title": "The Impact of Collaborative Work Environments on Business Growth",
+    "category": "Productivity",
+    "hero": "space-reception",
+    "date": "2024-10-28",
+    "readMin": 4
+  },
+  {
+    "slug": "the-impact-of-commercial-real-estate-on-coworking-spaces",
+    "title": "The Impact of Commercial Real Estate on Coworking Spaces",
+    "category": "Workspace",
+    "hero": "space-event",
+    "date": "2024-11-04",
+    "readMin": 8
+  },
+  {
+    "slug": "the-impact-of-coworking-spaces-on-employee-mental-health",
+    "title": "The Impact of Coworking Spaces on Employee Mental Health",
+    "category": "Workspace",
+    "hero": "space-terrace",
+    "date": "2024-11-11",
+    "readMin": 8
+  },
+  {
+    "slug": "the-importance-of-office-aesthetics-in-boosting-productivity",
+    "title": "The Importance of Office Aesthetics in Boosting Productivity",
+    "category": "Productivity",
+    "hero": "space-phone-booth",
+    "date": "2024-11-18",
+    "readMin": 6
+  },
+  {
+    "slug": "the-legal-essentials-every-startup-needs-to-know",
+    "title": "The Legal Essentials Every Startup Needs to Know",
+    "category": "Startups",
+    "hero": "space-office-suite",
+    "date": "2024-11-25",
+    "readMin": 5
+  },
+  {
+    "slug": "the-power-of-serendipitous-encounters-in-a-coworking-space",
+    "title": "The Power of Serendipitous Encounters in a Coworking Space",
+    "category": "Community",
+    "hero": "space-virtual-office",
+    "date": "2024-12-02",
+    "readMin": 6
+  },
+  {
+    "slug": "the-productivity-boost-how-coworking-spaces-enhance-efficiency",
+    "title": "The Productivity Boost How Coworking Spaces Enhance Efficiency",
+    "category": "Productivity",
+    "hero": "space-open-desks",
+    "date": "2024-12-09",
+    "readMin": 4
+  },
+  {
+    "slug": "the-psychological-benefits-of-working-in-a-shared-office-space",
+    "title": "The Psychological Benefits of Working in a Shared Office Space",
+    "category": "Workspace",
+    "hero": "space-lounge",
+    "date": "2024-12-16",
+    "readMin": 8
+  },
+  {
+    "slug": "the-rise-of-flexible-workspaces-what-it-means-for-businesses",
+    "title": "The Rise of Flexible Workspaces What It Means for Businesses",
+    "category": "Workspace",
+    "hero": "space-private-cabin",
+    "date": "2024-12-23",
+    "readMin": 4
+  },
+  {
+    "slug": "the-role-of-coworking-in-building-a-strong-startup-ecosystem",
+    "title": "The Role of Coworking in Building a Strong Startup Ecosystem",
+    "category": "Startups",
+    "hero": "space-meeting-room",
+    "date": "2024-12-30",
+    "readMin": 6
+  },
+  {
+    "slug": "the-role-of-coworking-in-mental-health-and-wellbeing",
+    "title": "The Role of Coworking in Mental Health and Wellbeing",
+    "category": "Workspace",
+    "hero": "space-fixed-desk",
+    "date": "2025-01-06",
+    "readMin": 8
+  },
+  {
+    "slug": "the-role-of-events-and-workshops-in-a-coworking-community",
+    "title": "The Role of Events and Workshops in a Coworking Community",
+    "category": "Community",
+    "hero": "space-pantry",
+    "date": "2025-01-13",
+    "readMin": 8
+  },
+  {
+    "slug": "the-role-of-networking-in-a-coworking-environment",
+    "title": "The Role of Networking in a Coworking Environment",
+    "category": "Productivity",
+    "hero": "space-reception",
+    "date": "2025-01-20",
+    "readMin": 6
+  },
+  {
+    "slug": "the-science-behind-shared-workspaces-and-productivity",
+    "title": "The Science Behind Shared Workspaces and Productivity",
+    "category": "Productivity",
+    "hero": "space-event",
+    "date": "2025-01-27",
+    "readMin": 8
+  },
+  {
+    "slug": "the-startup-journey-how-to-turn-your-idea-into-a-business",
+    "title": "The Startup Journey How to Turn Your Idea Into a Business",
+    "category": "Startups",
+    "hero": "space-phone-booth",
+    "date": "2025-02-10",
+    "readMin": 8
+  },
+  {
+    "slug": "the-work-life-benefits-of-joining-a-coworking-space",
+    "title": "The Work Life Benefits of Joining a Coworking Space",
+    "category": "Workspace",
+    "hero": "space-office-suite",
+    "date": "2025-02-17",
+    "readMin": 4
+  },
+  {
+    "slug": "things-to-check-before-signing-up-for-a-coworking-space",
+    "title": "Things to Check Before Signing Up for a Coworking Space",
+    "category": "Workspace",
+    "hero": "space-virtual-office",
+    "date": "2025-02-24",
+    "readMin": 8
+  },
+  {
+    "slug": "what-is-a-sustainable-coworking-space-and-how-to-create-it",
+    "title": "What is a Sustainable Coworking Space and How to Create It",
+    "category": "Workspace",
+    "hero": "space-open-desks",
+    "date": "2025-03-03",
+    "readMin": 6
+  },
+  {
+    "slug": "why-corporates-are-moving-toward-flexible-coworking-spaces",
+    "title": "Why Corporates are Moving Toward Flexible Coworking Spaces",
+    "category": "Workspace",
+    "hero": "space-lounge",
+    "date": "2025-03-10",
+    "readMin": 5
+  },
+  {
+    "slug": "why-coworking-spaces-are-the-best-choice-for-small-business-owners",
+    "title": "Why Coworking Spaces are the Best Choice for Small Business Owners",
+    "category": "Workspace",
+    "hero": "space-private-cabin",
+    "date": "2025-03-17",
+    "readMin": 4
+  },
+  {
+    "slug": "why-coworking-spaces-are-the-future-of-work-for-entrepreneurs",
+    "title": "Why Coworking Spaces are the Future of Work for Entrepreneurs",
+    "category": "Startups",
+    "hero": "space-meeting-room",
+    "date": "2025-03-24",
+    "readMin": 7
+  },
+  {
+    "slug": "why-coworking-spaces-help-reduce-decision-fatigue",
+    "title": "Why Coworking Spaces Help Reduce Decision Fatigue",
+    "category": "Productivity",
+    "hero": "space-fixed-desk",
+    "date": "2025-03-31",
+    "readMin": 5
+  },
+  {
+    "slug": "why-coworking-works-better-than-home-offices-for-client-meetings",
+    "title": "Why Coworking Works Better Than Home Offices for Client Meetings",
+    "category": "Workspace",
+    "hero": "space-pantry",
+    "date": "2025-04-07",
+    "readMin": 8
+  },
+  {
+    "slug": "why-entrepreneurs-need-a-collaborative-work-environment",
+    "title": "Why Entrepreneurs Need a Collaborative Work Environment",
+    "category": "Productivity",
+    "hero": "space-reception",
+    "date": "2025-04-14",
+    "readMin": 4
+  },
+  {
+    "slug": "why-entrepreneurs-thrive-in-a-shared-office-environment",
+    "title": "Why Entrepreneurs Thrive in a Shared Office Environment",
+    "category": "Productivity",
+    "hero": "space-event",
+    "date": "2025-04-21",
+    "readMin": 6
+  },
+  {
+    "slug": "why-hybrid-work-models-need-coworking-spaces-to-succeed",
+    "title": "Why Hybrid Work Models Need Coworking Spaces to Succeed",
+    "category": "Workspace",
+    "hero": "space-terrace",
+    "date": "2025-04-28",
+    "readMin": 7
+  },
+  {
+    "slug": "why-more-freelancers-are-choosing-coworking-over-work-from-home",
+    "title": "Why More Freelancers are Choosing Coworking Over Work from Home",
+    "category": "Workspace",
+    "hero": "space-phone-booth",
+    "date": "2025-05-05",
+    "readMin": 6
+  },
+  {
+    "slug": "why-mumbai-is-becoming-indias-coworking-capital",
+    "title": "Why Mumbai is Becoming Indias Coworking Capital",
+    "category": "Workspace",
+    "hero": "space-office-suite",
+    "date": "2025-05-12",
+    "readMin": 4
+  },
+  {
+    "slug": "why-social-interaction-matters-in-the-workplace",
+    "title": "Why Social Interaction Matters in the Workplace",
+    "category": "Community",
+    "hero": "space-virtual-office",
+    "date": "2025-05-19",
+    "readMin": 6
+  },
+  {
+    "slug": "why-traditional-offices-are-becoming-obsolete-in-the-age-of-coworking",
+    "title": "Why Traditional Offices are Becoming Obsolete in the Age of Coworking",
+    "category": "Workspace",
+    "hero": "space-open-desks",
+    "date": "2025-05-26",
+    "readMin": 8
+  },
+  {
+    "slug": "andheri-at",
+    "title": "YesssWorks Andheri AT, by AGM Vijaylaxmi",
+    "category": "Locations",
+    "hero": "space-reception",
+    "date": "2025-06-02",
+    "readMin": 6
+  },
+  {
+    "slug": "aurum-mahape",
+    "title": "Inside YesssWorks Mahape, Aurum Q6 at Millenium Business Park",
+    "category": "Locations",
+    "hero": "space-office-suite",
+    "date": "2025-06-09",
+    "readMin": 6
+  },
+  {
+    "slug": "why-designers-creatives-and-agencies-are-choosing-coworking-spaces",
+    "title": "Why Designers, Creatives and Agencies are Choosing Coworking Spaces",
+    "category": "Workspace",
+    "hero": "space-lounge",
+    "date": "2025-06-16",
+    "readMin": 6
+  },
+  {
+    "slug": "yesssworks-andheri",
+    "title": "YesssWorks Andheri, Ackruti Softech Park, Marol MIDC",
+    "category": "Locations",
+    "hero": "space-private-cabin",
+    "date": "2025-06-23",
+    "readMin": 6
+  },
+  {
+    "slug": "yesssworks-goregaon",
+    "title": "YesssWorks Goregaon, 271 Business Park, Goregaon East",
+    "category": "Locations",
+    "hero": "space-meeting-room",
+    "date": "2025-06-30",
+    "readMin": 6
+  },
+  {
+    "slug": "yesssworks-pinnacle",
+    "title": "YesssWorks Pinnacle Business Park, Andheri East",
+    "category": "Locations",
+    "hero": "space-fixed-desk",
+    "date": "2025-07-07",
+    "readMin": 6
+  }
+]

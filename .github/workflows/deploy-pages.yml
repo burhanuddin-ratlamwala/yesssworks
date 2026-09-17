@@ -29,6 +29,8 @@ jobs:
         run: npm ci
       - name: Build site
         run: ./node_modules/.bin/vite build
+      - name: Support client-side routes
+        run: cp dist/index.html dist/404.html
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

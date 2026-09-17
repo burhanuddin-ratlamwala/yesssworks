@@ -21,7 +21,7 @@ export const SEO = ({ title, description, canonical, keywords, jsonLd, image, no
       <title>{fullTitle}</title>
       <meta name="description" content={fullDesc} />
       {keywords && keywords.length > 0 && <meta name="keywords" content={keywords.join(", ")} />}
-      {noindex && <meta name="robots" content="noindex, follow" />}
+      <meta name="robots" content="noindex, nofollow, noarchive, nosnippet" />
       {url && <link rel="canonical" href={url} />}
       <meta property="og:title" content={fullTitle} />
       <meta property="og:description" content={fullDesc} />
